@@ -3,6 +3,11 @@ body#layout #section1 {
         width: 100% !important;
         float: left;
     }
+
+body#layout #section1 {
+        width: 100% !important;
+        float: left;
+    }
     
     body#layout .top-nav {
         min-height: 45px
